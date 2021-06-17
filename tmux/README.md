@@ -4,6 +4,8 @@ This is my TMUX configuration, tested most recently with tmux v3.2.
 
 ## Pre-requisites
 ```
+brew install tmux
+
 # see https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard for the skinny on why this is a
 # must for sane copy/paste in Mac OS X.
 
