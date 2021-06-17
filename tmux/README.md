@@ -1,6 +1,13 @@
 # TMUX
 
-This is my TMUX configuration.
+This is my TMUX configuration, tested most recently with tmux v3.2.
+
+## Pre-requisites
+```
+# see https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard for the skinny on why this is a
+# must for sane copy/paste in Mac OS X.
+brew install reattach-to-user-namespace
+```
 
 ## Shell Alias
 Set up this shell alias that will initiate your tmux session with your ideal console development
